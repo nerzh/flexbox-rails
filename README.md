@@ -13,7 +13,7 @@ Add to application.scss
 ```
 ## Usage
 
-Read [WIKI](https://github.com/woodcrust/flexbox-rails/wiki) about Flexbox - rails
+###Read [WIKI](https://github.com/woodcrust/flexbox-rails/wiki) about Flexbox - rails
 
 ## Contributing
 
