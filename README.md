@@ -7,9 +7,9 @@ Add this line to your application's Gemfile:
 gem 'flexbox-rails'
 ```
 
-Add to application.scss
+Add to  _application.css_
 ```css
-*= require 'flexbox'
+//= require 'flexbox'
 ```
 ## Usage
 
