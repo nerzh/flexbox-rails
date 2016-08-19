@@ -3060,3 +3060,15 @@
 {
   height: 100vmin;
 }
+.prel
+{
+  position: relative;
+}
+.pabs
+{
+  position: absolute;
+}
+.pfix
+{
+  position: fixed; 
+}
