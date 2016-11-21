@@ -3014,61 +3014,60 @@
   align-content: stretch;
 }
 
+/* O H T E R   F O R   F L E X */
+.f10a {
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+}
+.f10100 {
+  -webkit-flex: 1 0 100%;
+  flex: 1 0 100%;
+}
+.f00a {
+  -webkit-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
 /*     E N D   F L E X     */
 
-.w100
-{
+.w100 {
   width: 100%;
 }
-.h100
-{
+.h100 {
   height: 100%;
 }
-.ha
-{
+.ha {
   height: auto;
 }
-.h100vh
-{
+.h100vh {
   height: 100vh;
 }
-.h100vw
-{
+.h100vw {
   height: 100vw;
 }
-.w100vw
-{
+.w100vw {
   width: 100vw;
 }
-.w100vh
-{
+.w100vh {
   width: 100vh;
 }
-.w100vmin
-{
+.w100vmin {
   width: 100vmin;
 }
-.w100vmax
-{
+.w100vmax {
   width: 100vmax;
 }
-.h100vmax
-{
+.h100vmax {
   height: 100vmax;
 }
-.h100vmin
-{
+.h100vmin {
   height: 100vmin;
 }
-.prel
-{
+.prel {
   position: relative;
 }
-.pabs
-{
+.pabs {
   position: absolute;
 }
-.pfix
-{
+.pfix {
   position: fixed; 
 }
