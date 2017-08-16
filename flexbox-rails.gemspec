@@ -1,6 +1,5 @@
-# coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+$:.push File.expand_path("../lib", __FILE__)
+
 require 'flexbox-rails/version'
 
 Gem::Specification.new do |spec|
@@ -14,8 +13,8 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/woodcrust/flexbox-rails"
   spec.license       = "MIT"
 
-  spec.files         = Dir["{lib,vendor}/**/*"]
-  spec.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
+  spec.files         = Dir["{lib,config}/**/*"]
+  # spec.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
 
   spec.add_dependency "rails", ">= 3.1"
 

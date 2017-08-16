@@ -1,4 +1,4 @@
-require "flexbox-rails/version"
+require "flexbox-rails/engine"
 
 module Flexbox
 end
