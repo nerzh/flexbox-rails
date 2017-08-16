@@ -5,7 +5,7 @@ require 'flexbox-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "flexbox-rails"
-  spec.version       = Flexbox::Rails::VERSION
+  spec.version       = Flexbox::VERSION
   spec.authors       = ["woodcrust"]
   spec.email         = ["roboucrop@gmail.com"]
 
