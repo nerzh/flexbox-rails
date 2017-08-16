@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/woodcrust/flexbox-rails"
   spec.license       = "MIT"
 
-  spec.files         = Dir["{lib,config}/**/*"]
+  spec.files         = Dir["{lib,config,vendor}/**/*"]
   # spec.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
 
   spec.add_dependency "rails", ">= 3.1"
