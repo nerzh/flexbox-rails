@@ -1,0 +1,501 @@
+/* width 1 to 100% w1 ... w100 */
+.w1 {
+  width: 1% !important;
+  box-sizing: border-box;
+}
+
+.w2 {
+  width: 2% !important;
+  box-sizing: border-box;
+}
+
+.w3 {
+  width: 3% !important;
+  box-sizing: border-box;
+}
+
+.w4 {
+  width: 4% !important;
+  box-sizing: border-box;
+}
+
+.w5 {
+  width: 5% !important;
+  box-sizing: border-box;
+}
+
+.w6 {
+  width: 6% !important;
+  box-sizing: border-box;
+}
+
+.w7 {
+  width: 7% !important;
+  box-sizing: border-box;
+}
+
+.w8 {
+  width: 8% !important;
+  box-sizing: border-box;
+}
+
+.w9 {
+  width: 9% !important;
+  box-sizing: border-box;
+}
+
+.w10 {
+  width: 10% !important;
+  box-sizing: border-box;
+}
+
+.w11 {
+  width: 11% !important;
+  box-sizing: border-box;
+}
+
+.w12 {
+  width: 12% !important;
+  box-sizing: border-box;
+}
+
+.w13 {
+  width: 13% !important;
+  box-sizing: border-box;
+}
+
+.w14 {
+  width: 14% !important;
+  box-sizing: border-box;
+}
+
+.w15 {
+  width: 15% !important;
+  box-sizing: border-box;
+}
+
+.w16 {
+  width: 16% !important;
+  box-sizing: border-box;
+}
+
+.w17 {
+  width: 17% !important;
+  box-sizing: border-box;
+}
+
+.w18 {
+  width: 18% !important;
+  box-sizing: border-box;
+}
+
+.w19 {
+  width: 19% !important;
+  box-sizing: border-box;
+}
+
+.w20 {
+  width: 20% !important;
+  box-sizing: border-box;
+}
+
+.w21 {
+  width: 21% !important;
+  box-sizing: border-box;
+}
+
+.w22 {
+  width: 22% !important;
+  box-sizing: border-box;
+}
+
+.w23 {
+  width: 23% !important;
+  box-sizing: border-box;
+}
+
+.w24 {
+  width: 24% !important;
+  box-sizing: border-box;
+}
+
+.w25 {
+  width: 25% !important;
+  box-sizing: border-box;
+}
+
+.w26 {
+  width: 26% !important;
+  box-sizing: border-box;
+}
+
+.w27 {
+  width: 27% !important;
+  box-sizing: border-box;
+}
+
+.w28 {
+  width: 28% !important;
+  box-sizing: border-box;
+}
+
+.w29 {
+  width: 29% !important;
+  box-sizing: border-box;
+}
+
+.w30 {
+  width: 30% !important;
+  box-sizing: border-box;
+}
+
+.w31 {
+  width: 31% !important;
+  box-sizing: border-box;
+}
+
+.w32 {
+  width: 32% !important;
+  box-sizing: border-box;
+}
+
+.w33 {
+  width: 33% !important;
+  box-sizing: border-box;
+}
+
+.w34 {
+  width: 34% !important;
+  box-sizing: border-box;
+}
+
+.w35 {
+  width: 35% !important;
+  box-sizing: border-box;
+}
+
+.w36 {
+  width: 36% !important;
+  box-sizing: border-box;
+}
+
+.w37 {
+  width: 37% !important;
+  box-sizing: border-box;
+}
+
+.w38 {
+  width: 38% !important;
+  box-sizing: border-box;
+}
+
+.w39 {
+  width: 39% !important;
+  box-sizing: border-box;
+}
+
+.w40 {
+  width: 40% !important;
+  box-sizing: border-box;
+}
+
+.w41 {
+  width: 41% !important;
+  box-sizing: border-box;
+}
+
+.w42 {
+  width: 42% !important;
+  box-sizing: border-box;
+}
+
+.w43 {
+  width: 43% !important;
+  box-sizing: border-box;
+}
+
+.w44 {
+  width: 44% !important;
+  box-sizing: border-box;
+}
+
+.w45 {
+  width: 45% !important;
+  box-sizing: border-box;
+}
+
+.w46 {
+  width: 46% !important;
+  box-sizing: border-box;
+}
+
+.w47 {
+  width: 47% !important;
+  box-sizing: border-box;
+}
+
+.w48 {
+  width: 48% !important;
+  box-sizing: border-box;
+}
+
+.w49 {
+  width: 49% !important;
+  box-sizing: border-box;
+}
+
+.w50 {
+  width: 50% !important;
+  box-sizing: border-box;
+}
+
+.w51 {
+  width: 51% !important;
+  box-sizing: border-box;
+}
+
+.w52 {
+  width: 52% !important;
+  box-sizing: border-box;
+}
+
+.w53 {
+  width: 53% !important;
+  box-sizing: border-box;
+}
+
+.w54 {
+  width: 54% !important;
+  box-sizing: border-box;
+}
+
+.w55 {
+  width: 55% !important;
+  box-sizing: border-box;
+}
+
+.w56 {
+  width: 56% !important;
+  box-sizing: border-box;
+}
+
+.w57 {
+  width: 57% !important;
+  box-sizing: border-box;
+}
+
+.w58 {
+  width: 58% !important;
+  box-sizing: border-box;
+}
+
+.w59 {
+  width: 59% !important;
+  box-sizing: border-box;
+}
+
+.w60 {
+  width: 60% !important;
+  box-sizing: border-box;
+}
+
+.w61 {
+  width: 61% !important;
+  box-sizing: border-box;
+}
+
+.w62 {
+  width: 62% !important;
+  box-sizing: border-box;
+}
+
+.w63 {
+  width: 63% !important;
+  box-sizing: border-box;
+}
+
+.w64 {
+  width: 64% !important;
+  box-sizing: border-box;
+}
+
+.w65 {
+  width: 65% !important;
+  box-sizing: border-box;
+}
+
+.w66 {
+  width: 66% !important;
+  box-sizing: border-box;
+}
+
+.w67 {
+  width: 67% !important;
+  box-sizing: border-box;
+}
+
+.w68 {
+  width: 68% !important;
+  box-sizing: border-box;
+}
+
+.w69 {
+  width: 69% !important;
+  box-sizing: border-box;
+}
+
+.w70 {
+  width: 70% !important;
+  box-sizing: border-box;
+}
+
+.w71 {
+  width: 71% !important;
+  box-sizing: border-box;
+}
+
+.w72 {
+  width: 72% !important;
+  box-sizing: border-box;
+}
+
+.w73 {
+  width: 73% !important;
+  box-sizing: border-box;
+}
+
+.w74 {
+  width: 74% !important;
+  box-sizing: border-box;
+}
+
+.w75 {
+  width: 75% !important;
+  box-sizing: border-box;
+}
+
+.w76 {
+  width: 76% !important;
+  box-sizing: border-box;
+}
+
+.w77 {
+  width: 77% !important;
+  box-sizing: border-box;
+}
+
+.w78 {
+  width: 78% !important;
+  box-sizing: border-box;
+}
+
+.w79 {
+  width: 79% !important;
+  box-sizing: border-box;
+}
+
+.w80 {
+  width: 80% !important;
+  box-sizing: border-box;
+}
+
+.w81 {
+  width: 81% !important;
+  box-sizing: border-box;
+}
+
+.w82 {
+  width: 82% !important;
+  box-sizing: border-box;
+}
+
+.w83 {
+  width: 83% !important;
+  box-sizing: border-box;
+}
+
+.w84 {
+  width: 84% !important;
+  box-sizing: border-box;
+}
+
+.w85 {
+  width: 85% !important;
+  box-sizing: border-box;
+}
+
+.w86 {
+  width: 86% !important;
+  box-sizing: border-box;
+}
+
+.w87 {
+  width: 87% !important;
+  box-sizing: border-box;
+}
+
+.w88 {
+  width: 88% !important;
+  box-sizing: border-box;
+}
+
+.w89 {
+  width: 89% !important;
+  box-sizing: border-box;
+}
+
+.w90 {
+  width: 90% !important;
+  box-sizing: border-box;
+}
+
+.w91 {
+  width: 91% !important;
+  box-sizing: border-box;
+}
+
+.w92 {
+  width: 92% !important;
+  box-sizing: border-box;
+}
+
+.w93 {
+  width: 93% !important;
+  box-sizing: border-box;
+}
+
+.w94 {
+  width: 94% !important;
+  box-sizing: border-box;
+}
+
+.w95 {
+  width: 95% !important;
+  box-sizing: border-box;
+}
+
+.w96 {
+  width: 96% !important;
+  box-sizing: border-box;
+}
+
+.w97 {
+  width: 97% !important;
+  box-sizing: border-box;
+}
+
+.w98 {
+  width: 98% !important;
+  box-sizing: border-box;
+}
+
+.w99 {
+  width: 99% !important;
+  box-sizing: border-box;
+}
+
+.w100 {
+  width: 100% !important;
+  box-sizing: border-box;
+}
+/* end width 1 to 100% w1 ... w100 */
