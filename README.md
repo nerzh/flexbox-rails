@@ -11,6 +11,12 @@ Add to  _application.css_
 ```css
 //= require 'flexbox'
 ```
+
+or for additional styles
+```css
+//= require 'additional_flexbox'
+```
+
 ## Usage
 
 ###Read [WIKI](https://github.com/woodcrust/flexbox-rails/wiki) about Flexbox - rails
